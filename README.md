@@ -2,18 +2,17 @@
 # Minecraft Session Stealer - MSS
   An easy way to grab session tokens from Minecraft and send to a Discord webhook.
   Original Inspiration from [wodxgod](https://github.com/wodxgod/Minecraft-Session-Token-Stealer)
-
-## Infomation on project
-  An easy way to grab sessions tokens for Minecraft.
   Currently tested on Android, Kali Linux, Ubuntu, Windows 10 and Windows 7. 
 
-# What does it grab?
+-------------------------
+
+### What does it grab?
 - Usernames
 - Email Address
 - Session Type (Mojang or Microsoft)
 - Session Authorization Token
 
-# What I'm gonna add
+### What I'm gonna add
 - UUID's
 - Legacy Account
 - Migrated Accounts
@@ -21,10 +20,14 @@
 - Local Identifier
 - Avatar (For Microsoft Accounts)
 
+-------------------------
+
 ## Example Output
   <div align="center">
     <p><img src="https://i.imgur.com/AHwYgjD.png"></p>
   </div>
+  
+-------------------------
 
 ## Credits
 - HellSec, WodxGod
