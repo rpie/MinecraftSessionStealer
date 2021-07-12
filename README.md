@@ -24,6 +24,14 @@
 
 -------------------------
 
+## Complile and Obfuscate
+Open a terminal and enter in the commands below
+```bash
+pip3 install pyarmor
+pyarmor obfuscate main.py
+```
+The outputed exe will be in /dist/
+
 ## Example Output
   <div align="center">
     <p><img src="https://i.imgur.com/AHwYgjD.png"></p>
