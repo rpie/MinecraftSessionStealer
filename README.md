@@ -12,13 +12,13 @@
 - Session Type (Mojang or Microsoft)
 - Session Authorization Token
 
-### What I'm gonna add
-- UUID's
-- Legacy Account
-- Migrated Accounts
-- Optifine Cape Status
-- Local Identifier
-- Avatar (For Microsoft Accounts)
+### Updates Soon
+- [ ]  UUID's
+- [ ]  Legacy Account
+- [ ]  Migrated Accounts
+- [ ]  Optifine Cape Status
+- [ ] Local Identifier
+- [ ] Avatar (For Microsoft Accounts)
 
 -------------------------
 
